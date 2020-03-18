@@ -319,6 +319,7 @@ img {
 .home .content-pick .destination {
   width: 30%;
   margin-bottom: 30px;
+  padding: 1%;
 }
 @media (max-width: 500px) {
   .home .content-pick .destination {
